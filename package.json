@@ -1,0 +1,10 @@
+{
+  "name": "fundraising--html",
+  "version": "1.0.0",
+  "main": "js/app.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4"
+  }
+}
